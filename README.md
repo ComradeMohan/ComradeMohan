@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **web development**
 
-- 🌱 I’m currently learning **python, ethical hacker**
+- 🌱 I’m currently learning **python, html, css, javascript**
 
 - 👯 I’m looking to collaborate on **microsoft**
 
