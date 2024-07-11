@@ -5,8 +5,6 @@
 <img align="right" alt ="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=comrademohan&label=Profile%20views&color=0e75b6&style=flat" alt="comrademohan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=comrademohan" alt="comrademohan" /></a> </p>
-
 - 🔭 I’m currently working on **web development**
 
 - 🌱 I’m currently learning **python, html, css, javascript**
@@ -19,6 +17,8 @@
 
 - ⚡ Fun fact **I am an introvert😅**
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=comrademohan" alt="comrademohan" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/mohan-reddy-mmr/" rel="nofollow"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mudhasheer" height="30" width="40" style="max-width: 100%;"></a>
