@@ -5,17 +5,17 @@
 <img align="right" alt ="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=comrademohan&label=Profile%20views&color=0e75b6&style=flat" alt="comrademohan" /> </p>
 
-- 🔭 I’m currently working on **web development**
+- 🔭 I’m currently working on **web development projects.**
 
 - 🌱 I’m currently learning **python, html, css, javascript**
 
-- 👯 I’m looking to collaborate on **microsoft**
+- 👯 I’m looking to collaborate on **Microsoft technologies and projects.**
 
-- 💬 Ask me about **basics programming**
+- 💬 Ask me about **coding best practices**
 
 - 📫 How to reach me **madhiremohanreddy@gmail.com**
 
-- ⚡ Fun fact **I am an introvert😅**
+- ⚡ Fun fact **I am an introvert who loves exploring new technologies! 😅**
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=comrademohan" alt="comrademohan" /></a> </p>
