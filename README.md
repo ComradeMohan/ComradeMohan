@@ -1,7 +1,9 @@
 <p align="center">
 <h1 align="center">Hi   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Profile image">  I'm M Mohan Reddy</h1>
 </p>
-<h3 align="center">A passionate Web developer from India</h3>
+<!-- <h3 align="center">A passionate  -->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer;Software+Engineer;Freelancer" alt="Typing SVG" /></a> 
+<!--     from India</h3> -->
 <img align="right" alt ="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=comrademohan&label=Profile%20views&color=0e75b6&style=flat" alt="comrademohan" /> </p>
 
