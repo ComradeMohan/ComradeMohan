@@ -18,7 +18,9 @@
 - 📫 How to reach me **madhiremohanreddy@gmail.com**
 
 - ⚡ Fun fact **I am an introvert who loves exploring new technologies! 😅**
-
+<p align="center">
+  <img src="https://i.ibb.co/yFsChGb/git-wrapped-comrademohan.png" alt="GitHub Contribution Graph" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=comrademohan" alt="comrademohan" /></a> </p>
 <h3 align="left">Connect with me:</h3>
