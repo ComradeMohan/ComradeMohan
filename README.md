@@ -20,6 +20,7 @@
 - ⚡ Fun fact **I am an introvert who loves exploring new technologies! 😅**
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+
 <p align="center">
   <img src="https://i.ibb.co/yFsChGb/git-wrapped-comrademohan.png" alt="GitHub Contribution Graph" />
 </p>
@@ -27,6 +28,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=comrademohan" alt="comrademohan" /></a> </p>
 
 ![3D Contribution Graph - Rainbow](./profile-3d-contrib/profile-night-rainbow.svg)
+![LeetCode Stats](https://leetcard.jacoblin.cool/comrademohan?ext=contest)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
