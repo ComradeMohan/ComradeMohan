@@ -72,3 +72,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=comrademohan&theme=city_light&hide_border=true)
 
 <img  alt ="coding"  src="https://profile-readme-generator.com/assets/snake.svg">
+
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ComradeMohan-ComradeMohan/count.svg" />
+</p>
