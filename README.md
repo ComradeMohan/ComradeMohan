@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I am an introvert who loves exploring new technologies! 😅**
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+![Profile Card](https://devpulseweb.netlify.app/api/widgets/profile/ComradeMohan)
 
 <p align="center">
   <img src="https://i.ibb.co/yFsChGb/git-wrapped-comrademohan.png" alt="GitHub Contribution Graph" />
