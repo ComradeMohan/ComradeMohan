@@ -66,6 +66,7 @@
 
 <br/>  
 
+![](https://devpulse.is-a.dev/api/widgets/activity-graph/ComradeMohan)
 
 ![](https://devpulse.is-a.dev/api/widgets/streaks-and-stats/ComradeMohan)
 ![](https://github-readme-stats.vercel.app/api?username=comrademohan&theme=city_light&hide_border=true&include_all_commits=true&count_private=false)
