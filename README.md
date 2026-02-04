@@ -41,13 +41,13 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mohan-reddy-mmr/" target="_blank">
+<a href="https://www.linkedin.com/in/mmohanreddy" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://www.instagram.com/comrade_mohan666" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="https://www.leetcode.com/comardemohan/" target="_blank">
+<a href="https://www.leetcode.com/comrademohan/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 <a href="https://kaggle.com/mohanreddy007" target="_blank">
