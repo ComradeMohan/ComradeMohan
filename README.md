@@ -100,9 +100,7 @@
 
 ### 📊 Detailed Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=comrademohan&theme=city_light&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comrademohan&theme=city_light&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="49%"/>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=COMRADEMOHAN&theme=tokyonight-duo&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 </div>
 
 ---
