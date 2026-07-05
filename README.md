@@ -1,107 +1,154 @@
 <div align="center">
 
-# Hi there! 👋 I'm M Mohan Reddy
+# 👋 Hi, I'm M Mohan Reddy
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;Software+Engineer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full+Stack+Developer;Java+Developer;React+%7C+Node.js;Always+Learning+New+Things" alt="Typing SVG"/>
 
-<img src="https://komarev.com/ghpvc/?username=comrademohan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=COMRADEMOHAN&label=Profile+Views&style=for-the-badge&color=0E75B6"/>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 
-### 👨‍💻 About Me
+# 💫 About Me
 
-- 🔭 Currently working on **innovative web development projects**
-- 🌱 Learning **Python, JavaScript, and modern web technologies**
-- 👯 Open to collaborate on **Microsoft technologies and open-source projects**
-- 💬 Ask me about **coding best practices and web development**
-- 📫 Reach me at **madhiremohanreddy@gmail.com**
-- ⚡ Fun fact: **I'm an introvert who loves exploring new tech! 😅**
+🎓 Final Year Computer Science Engineering Student
+
+💻 Passionate about Full Stack Development
+
+🚀 Interested in Software Engineering & Open Source
+
+🌱 Currently Learning
+
+- Java
+- Spring Boot
+- React
+- System Design
+- Cloud Computing
+
+💬 Ask Me About
+
+- Java
+- React
+- Node.js
+- Firebase
+- Web Development
+
+📫 **Email**
+
+```text
+madhiremohanreddy@gmail.com
+```
+
+⚡ Fun Fact
+
+> I enjoy building useful software and solving real-world problems.
 
 <br clear="right"/>
 
 ---
 
-### 🌟 Daily Motivation
+# 🌐 Connect With Me
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mmohanreddy" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/mmohanreddy">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/comrade_mohan666" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+
+<a href="https://leetcode.com/u/comrademohan/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-<a href="https://www.leetcode.com/comrademohan/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+
+<a href="https://kaggle.com/mohanreddy007">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
-<a href="https://kaggle.com/mohanreddy007" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+
+<a href="https://www.instagram.com/comrade_mohan666/">
+<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 💻 Tech Stack
- 
-<div align="center">
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
- 
-**Backend & Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cpp,kotlin,php" />
- 
-**Database & Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,mysql,git,docker,vscode,linux" />
- 
-</div>
----
-
-## 📊 GitHub Statistics
+# 💻 Tech Stack
 
 <div align="center">
 
-### 📈 Contribution Graph
+### Languages
 
-![Activity Graph](https://devpulse.is-a.dev/api/widgets/activity-graph/ComradeMohan)
+<img src="https://skillicons.dev/icons?i=java,python,cpp,kotlin,php,js,ts"/>
 
-### 📊 Detailed Stats
+<br>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=COMRADEMOHAN&theme=tokyonight-duo&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
-</div>
+### Frontend
 
----
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css"/>
 
-## 🏆 LeetCode Performance
+<br>
 
-<div align="center">
+### Backend
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/comrademohan?ext=contest&theme=light)
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,mysql"/>
+
+<br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman"/>
 
 </div>
 
 ---
 
-## 🎨 3D Contribution Profile
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://streak-stats.demolab.com?user=COMRADEMOHAN&theme=transparent&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=COMRADEMOHAN&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9"/>
+
+</div>
+
+---
+
+# 💻 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/comrademohan?theme=unicorn&font=JetBrains+Mono&ext=heatmap"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=COMRADEMOHAN&theme=github-compact&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# ⚡ Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=COMRADEMOHAN&theme=github_dark"/>
+
+</div>
+
+---
+
+# 🎨 3D Contribution Graph
 
 <div align="center">
 
@@ -110,12 +157,15 @@
 </div>
 
 ---
+
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* 
+## ⭐ Thanks for Visiting!
 
-**Thank you for visiting my profile! Feel free to reach out for collaborations or just a tech chat! 🚀**
+> *"Programs must be written for people to read, and only incidentally for machines to execute."*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
 </div>
