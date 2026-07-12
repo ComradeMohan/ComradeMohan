@@ -1,5 +1,21 @@
 <div align="center">
 
+
+  <table width="100%">
+<tr>
+
+<td width="50%" align="center">
+<img src="./profile-ascii.svg" width="100%">
+</td>
+
+<td width="50%" align="center">
+<img src="./info-card.svg" width="100%">
+</td>
+
+</tr>
+</table>
+
+  
 # 👋 Hi, I'm M Mohan Reddy
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full+Stack+Developer;Java+Developer;React+%7C+Node.js;Always+Learning+New+Things" alt="Typing SVG"/>
