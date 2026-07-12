@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="376" viewBox="0 0 480 376" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#111722"/>
+<stop offset="1" stop-color="#0d1117"/>
+</linearGradient>
+</defs>
+
+<rect width="480" height="376" rx="12" fill="url(#bg)"/>
+<rect x="0.5" y="0.5" width="479" height="375" rx="12" fill="none" stroke="#30363d"/>
+<line x1="0" y1="30" x2="480" y2="30" stroke="#30363d"/>
+
+<circle cx="20" cy="15" r="5" fill="#ff5f56"/>
+<circle cx="36" cy="15" r="5" fill="#ffbd2e"/>
+<circle cx="52" cy="15" r="5" fill="#27c93f"/>
+
+<text x="240" y="19" fill="#7d8590" font-size="12" text-anchor="middle">mohan@github:~$ neofetch</text>
+
+<g opacity="0" transform="translate(0,8)">
+<text x="20" y="60" font-size="14" font-weight="700">
+<tspan fill="#3fb950">mohan</tspan><tspan fill="#7d8590">@</tspan><tspan fill="#22d3ee">github</tspan>
+</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.35s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.15s" dur="0.35s" fill="freeze"/>
+</g>
+
+<line x1="135" y1="56" x2="135" y2="56" stroke="#30363d">
+<animate attributeName="x2" from="135" to="460" begin="0.15s" dur="0.4s" fill="freeze"/>
+</line>
+<g opacity="0" transform="translate(0,6)">
+<text x="20" y="82" fill="#ffa657" font-size="12.5" font-weight="700">Role</text>
+<text x="110" y="82" fill="#c9d1d9" font-size="12.5">Final Year BE CSE Student</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.25s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.55s" dur="0.25s" fill="freeze"/>
+</g>
+<g opacity="0" transform="translate(0,6)">
+<text x="20" y="102" fill="#ffa657" font-size="12.5" font-weight="700">College</text>
+<text x="110" y="102" fill="#c9d1d9" font-size="12.5">SIMATS University</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.77s" dur="0.25s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.77s" dur="0.25s" fill="freeze"/>
+</g>
+<g opacity="0" transform="translate(0,6)">
+<text x="20" y="122" fill="#ffa657" font-size="12.5" font-weight="700">Focus</text>
+<text x="110" y="122" fill="#c9d1d9" font-size="12.5">Full Stack • Java • AI</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.99s" dur="0.25s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.99s" dur="0.25s" fill="freeze"/>
+</g>
+<g opacity="0" transform="translate(0,6)">
+<text x="20" y="142" fill="#ffa657" font-size="12.5" font-weight="700">Goal</text>
+<text x="110" y="142" fill="#c9d1d9" font-size="12.5">Software Engineer</text>
+<animate attributeName="opacity" from="0" to="1" begin="1.21s" dur="0.25s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="1.21s" dur="0.25s" fill="freeze"/>
+</g>
+
+<g opacity="0" transform="translate(0,6)">
+<text x="20" y="172" fill="#58a6ff" font-size="12.5" font-weight="700">— Stack</text>
+<line x1="78" y1="168" x2="460" y2="168" stroke="#30363d"/>
+<animate attributeName="opacity" from="0" to="1" begin="1.43s" dur="0.3s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="1.43s" dur="0.3s" fill="freeze"/>
+</g>
+<g opacity="0" transform="translate(0,6)">
+<text x="20" y="194" fill="#ffa657" font-size="12.5" font-weight="700">Frontend</text>
+<text x="110" y="194" fill="#c9d1d9" font-size="12.5">React • Next.js • Tailwind</text>
+<animate attributeName="opacity" from="0" to="1" begin="1.73s" dur="0.25s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="1.73s" dur="0.25s" fill="freeze"/>
+</g><g opacity="0" transform="translate(0,6)">
+<text x="20" y="214" fill="#ffa657" font-size="12.5" font-weight="700">Backend</text>
+<text x="110" y="214" fill="#c9d1d9" font-size="12.5">Java • PHP • Firebase • SQL</text>
+<animate attributeName="opacity" from="0" to="1" begin="1.91s" dur="0.25s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="1.91s" dur="0.25s" fill="freeze"/>
+</g><g opacity="0" transform="translate(0,6)">
+<text x="20" y="234" fill="#ffa657" font-size="12.5" font-weight="700">Languages</text>
+<text x="110" y="234" fill="#c9d1d9" font-size="12.5">Java • Python • JavaScript</text>
+<animate attributeName="opacity" from="0" to="1" begin="2.09s" dur="0.25s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="2.09s" dur="0.25s" fill="freeze"/>
+</g><g opacity="0" transform="translate(0,6)">
+<text x="20" y="254" fill="#ffa657" font-size="12.5" font-weight="700">Tools</text>
+<text x="110" y="254" fill="#c9d1d9" font-size="12.5">Git • Docker • Vercel • Netlify</text>
+<animate attributeName="opacity" from="0" to="1" begin="2.27s" dur="0.25s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="2.27s" dur="0.25s" fill="freeze"/>
+</g>
+<g opacity="0">
+<text x="20" y="284" fill="#58a6ff" font-size="12.5" font-weight="700">— Projects</text>
+<line x1="96" y1="280" x2="460" y2="280" stroke="#30363d"/>
+<animate attributeName="opacity" from="0" to="1" begin="2.45s" dur="0.25s" fill="freeze"/>
+</g>
+<g opacity="0" transform="scale(.8)">
+<circle cx="24" cy="297" r="2.5" fill="#3fb950"/>
+<text x="34" y="301" fill="#c9d1d9" font-size="12.5">Saveetha Hub • Campus Codex • UniVault</text>
+<animate attributeName="opacity" from="0" to="1" begin="2.65s" dur="0.2s" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" from=".8" to="1" begin="2.65s" dur="0.2s" fill="freeze"/>
+</g><g opacity="0" transform="scale(.8)">
+<circle cx="24" cy="317" r="2.5" fill="#3fb950"/>
+<text x="34" y="321" fill="#c9d1d9" font-size="12.5">Oracle Java SE 17 Certified • Open Source</text>
+<animate attributeName="opacity" from="0" to="1" begin="2.83s" dur="0.2s" fill="freeze"/>
+<animateTransform attributeName="transform" type="scale" from=".8" to="1" begin="2.83s" dur="0.2s" fill="freeze"/>
+</g>
+<rect x="330" y="10" width="8" height="12" fill="#58a6ff">
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+</svg>
