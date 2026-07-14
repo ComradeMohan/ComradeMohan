@@ -1,19 +1,7 @@
 <div align="center">
 
 
-  <table width="100%">
-<tr>
-
-<td width="50%" align="center">
-<img src="./profile-ascii.svg" width="100%">
-</td>
-
-<td width="50%" align="center">
-<img src="./info-card.svg" width="100%">
-</td>
-
-</tr>
-</table>
+ ![Profile Banner](./profile-combined.svg)
 
   
 # 👋 Hi, I'm M Mohan Reddy
