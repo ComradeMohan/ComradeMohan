@@ -116,7 +116,6 @@ madhiremohanreddy@gmail.com
 
 <img width="49%" src="https://streak-stats.demolab.com?user=COMRADEMOHAN&theme=transparent&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=COMRADEMOHAN&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9"/>
 
 </div>
 
