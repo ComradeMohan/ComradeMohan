@@ -19,46 +19,20 @@
 
 ---
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
+<!-- <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/> -->
 
-# 💫 About Me
-
-🎓 Final Year Computer Science Engineering Student
-
-💻 Passionate about Full Stack Development
-
-🚀 Interested in Software Engineering & Open Source
-
-🌱 Currently Learning
-
-- Java
-- Spring Boot
-- React
-- System Design
-- Cloud Computing
-
-💬 Ask Me About
-
-- Java
-- React
-- Node.js
-- Firebase
-- Web Development
-
-📫 **Email**
-
-```text
-madhiremohanreddy@gmail.com
-```
-
-⚡ Fun Fact
-
-> I enjoy building useful software and solving real-world problems.
-
-<br clear="right"/>
-
+## 💫 About Me
+ 
+- 🎓 Final-year B.E. Computer Science student at SIMATS University
+- 💻 Full-stack developer — shipped **SaveethaHub** and **UniVault** to real users
+- 🚀 Focused on software engineering, system design & open source
+- 🌱 Currently sharpening: `Java` · `Spring Boot` · `React` · `System Design` · `Cloud Computing`
+- 💬 Ask me about: `Java` · `React` · `Node.js` · `Firebase` · `Web Development`
+📫 **Email:** `madhiremohanreddy@gmail.com`
+ 
+> ⚡ I enjoy building useful software and solving real-world problems.
+ 
 ---
-
 # 🌐 Connect With Me
 
 <div align="center">
