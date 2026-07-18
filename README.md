@@ -1,8 +1,15 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-combined.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-combined-light.svg">
+  <img src="./profile-combined.svg" alt="Comrade Mohan — Frontend Developer" width="100%"/>
+</picture>
+
+<--
 
  ![Profile Banner](./profile-combined.svg)
-
+-->
   
 # 👋 Hi, I'm M Mohan Reddy
 
