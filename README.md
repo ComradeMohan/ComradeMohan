@@ -6,10 +6,6 @@
   <img src="./profile-combined.svg" alt="Comrade Mohan — Frontend Developer" width="100%"/>
 </picture>
 
-<--
-
- ![Profile Banner](./profile-combined.svg)
--->
   
 # 👋 Hi, I'm M Mohan Reddy
 
