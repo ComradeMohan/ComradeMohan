@@ -16,7 +16,11 @@
 
 
 <!-- Signature status strip — custom SVG asset, save alongside README as ./assets/status-bar.svg -->
-<img src="./assets/status-bar.svg" alt="Open to SDE roles · OCP Java SE 17 Certified · B.E. CSE, SIMATS, 2026" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/status-bar.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/status-bar-light.svg">
+  <img src="./assets/status-bar.svg" alt="Open to SDE roles · OCP Java SE 17 Certified · B.E. CSE, SIMATS, 2026" width="100%"/>
+</picture>
 
 
 
