@@ -87,19 +87,34 @@
 </div>
 
 ---
-
-# 📊 GitHub Statistics
+## 📊 Developer Dashboard
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=COMRADEMOHAN&theme=transparent&hide_border=true"/>
+<img width="92%" src="https://streak-stats.demolab.com?user=COMRADEMOHAN&theme=transparent&hide_border=true&background=0F172A00&stroke=2DD4BF&ring=2DD4BF&fire=2DD4BF&currStreakNum=2DD4BF&sideNums=94A3B8&currStreakLabel=2DD4BF&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak Stats"/>
 
+<br>
 
-</div>
+<table width="92%">
+<tr>
+<td width="65%" align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comrademohan&theme=github_dark&animation=sequence">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comrademohan&theme=github&animation=sequence">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comrademohan&theme=github_dark&animation=sequence" alt="Profile Details"/>
+</picture>
+</td>
+<td width="35%" align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=comrademohan&theme=github_dark&animation=sequence&utcOffset=0">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=comrademohan&theme=github&animation=sequence&utcOffset=0">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=comrademohan&theme=github_dark&animation=sequence&utcOffset=0" alt="Productive Time"/>
+</picture>
+</td>
+</tr>
+</table>
 
----
-
-# 💻 LeetCode
+<br>
 
 <div align="center">
 
@@ -110,46 +125,11 @@
 </picture>
 
 </div>
+<br>
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=COMRADEMOHAN&theme=github-compact&hide_border=true&bg_color=00000000"/>
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=COMRADEMOHAN&theme=github-compact&hide_border=true&bg_color=00000000&color=2DD4BF&line=2DD4BF&point=14B8A6&area=true&area_color=2DD4BF" alt="Contribution Graph"/>
 
 </div>
-
----
-
-# ⚡ Coding Activity
-
-<table>
-<tr>
-<td>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comrademohan&theme=github_dark&animation=sequence">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comrademohan&theme=github&animation=sequence">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comrademohan&theme=github_dark&animation=sequence" alt="Profile Details">
-</picture>
-
-</td>
-<td>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=comrademohan&theme=github_dark&animation=sequence&utcOffset=0">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=comrademohan&theme=github&animation=sequence&utcOffset=0">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=comrademohan&theme=github_dark&animation=sequence&utcOffset=0" alt="Productive Time">
-</picture>
-
-</td>
-</tr>
-</table>
-
-
-
 
 ---
 
@@ -158,7 +138,8 @@
 <div align="center">
 
 <div align="center">
-# Theme Test
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
