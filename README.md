@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <picture>
@@ -103,17 +104,9 @@
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/leetcode/leetcode-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/leetcode/leetcode-light.svg">
-
-  <img
-    src="https://leetcard.jacoblin.cool/comrademohan?theme=dark&ext=heatmap"
-    alt="LeetCode Stats">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/leetcode/leetcode-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/leetcode/leetcode-light.svg">
+  <img src="https://leetcard.jacoblin.cool/comrademohan?theme=dark&ext=heatmap" alt="LeetCode Stats">
 </picture>
 
 </div>
