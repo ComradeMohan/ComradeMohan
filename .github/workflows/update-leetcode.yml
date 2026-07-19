@@ -2,9 +2,7 @@ name: Update LeetCode Cards
 
 on:
   schedule:
-    # Every day at 07:30 UTC = 1:00 PM IST
     - cron: "30 7 * * *"
-
   workflow_dispatch:
 
 permissions:
@@ -32,6 +30,11 @@ jobs:
           curl -L \
           "https://leetcard.jacoblin.cool/comrademohan?theme=default&ext=heatmap" \
           -o assets/leetcode/leetcode-light.svg
+
+      - name: Patch SVGs
+        run: |
+          sed -i 's/svg{opacity:0}/svg{opacity:1}/' assets/leetcode/leetcode-dark.svg
+          sed -i 's/svg{opacity:0}/svg{opacity:1}/' assets/leetcode/leetcode-light.svg
 
       - name: Commit changes
         run: |
