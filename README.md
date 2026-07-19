@@ -138,19 +138,12 @@
 <div align="center">
 
 <div align="center">
+# Theme Test
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./profile-3d-contrib/profile-season-animate.svg">
-
-  <img
-    src="./profile-3d-contrib/profile-night-rainbow.svg"
-    alt="3D Contribution Graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt = "comrade mohan 3d contributin graph>
 </picture>
 
 </div>
