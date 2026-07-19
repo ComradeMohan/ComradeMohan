@@ -125,11 +125,31 @@
 
 # ⚡ Coding Activity
 
-<div align="center">
+<table>
+<tr>
+<td>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=COMRADEMOHAN&theme=github_dark"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comrademohan&theme=github_dark&animation=sequence">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comrademohan&theme=github&animation=sequence">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comrademohan&theme=github_dark&animation=sequence" alt="Profile Details">
+</picture>
 
-</div>
+</td>
+<td>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=comrademohan&theme=github_dark&animation=sequence&utcOffset=0">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=comrademohan&theme=github&animation=sequence&utcOffset=0">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=comrademohan&theme=github_dark&animation=sequence&utcOffset=0" alt="Productive Time">
+</picture>
+
+</td>
+</tr>
+</table>
+
+
+
 
 ---
 
