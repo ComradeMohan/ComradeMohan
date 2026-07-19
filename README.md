@@ -1,45 +1,103 @@
-
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-combined.svg">
   <source media="(prefers-color-scheme: light)" srcset="./profile-combined-light.svg">
-  <img src="./profile-combined.svg" alt="Comrade Mohan — Frontend Developer" width="100%"/>
+  <img src="./profile-combined.svg" alt="Comrade Mohan — Full-Stack Developer & Product Builder" width="100%"/>
 </picture>
 
-  
 # 👋 Hi, I'm M Mohan Reddy
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full+Stack+Developer;Java+Developer;React+%7C+Node.js;Always+Learning+New+Things" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=Building+SaveethaHub+%E2%80%94+Academic+Platform;Building+UniVault+%E2%80%94+Android+Exam+Prep;Oracle+Certified+Java+SE+17+Developer;Final-Year+CS+%40+SIMATS+University;Open+to+SDE+Internship+%26+New-Grad+Roles" alt="Typing SVG"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=COMRADEMOHAN&label=Profile+Views&style=for-the-badge&color=0E75B6"/>
+<img src="https://komarev.com/ghpvc/?username=COMRADEMOHAN&label=Profile+Views&style=for-the-badge&color=14B8A6"/>
+
+<br><br>
+
+<!-- Signature status strip — custom SVG asset, save alongside README as ./assets/status-bar.svg -->
+<img src="./assets/status-bar.svg" alt="Open to SDE roles · OCP Java SE 17 Certified · B.E. CSE, SIMATS, 2026" width="100%"/>
+
+<br><br>
+
+<a href="https://mohanreddy.me">
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=firefox&logoColor=2DD4BF"/>
+</a>
+<a href="mailto:madhiremohanreddy@gmail.com">
+<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=2DD4BF"/>
+</a>
+<a href="https://www.linkedin.com/in/mmohanreddy">
+<img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=readdotcv&logoColor=2DD4BF"/>
+</a>
+<!-- ↑ Point the Resume badge at a direct PDF link or your interactive resume page once hosted -->
 
 </div>
 
 ---
 
-<!-- <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/> -->
-
 ## 💫 About Me
- 
-- 🎓 Final-year B.E. Computer Science student at SIMATS University
+
+- 🎓 Final-year B.E. Computer Science student at SIMATS University, graduating 2026 (CGPA ~8.65)
 - 💻 Full-stack developer — shipped **SaveethaHub** and **UniVault** to real users
-- 🚀 Focused on software engineering, system design & open source
+- ☕ Oracle Certified Professional: Java SE 17 Developer
+- 🚀 Focused on software engineering, system design & product-led development
 - 🌱 Currently sharpening: `Java` · `Spring Boot` · `React` · `System Design` · `Cloud Computing`
 - 💬 Ask me about: `Java` · `React` · `Node.js` · `Firebase` · `Web Development`
-📫 **Email:** `madhiremohanreddy@gmail.com`
- 
+
 > ⚡ I enjoy building useful software and solving real-world problems.
- 
+
 ---
-# 🌐 Connect With Me
+
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 📚 SaveethaHub
+**Academic platform for university students, built and shipped to thousands of active users.**
+
+Next.js · Firebase · Supabase · Gemini AI — course resources, tools, and AI-assisted academic workflows for the SIMATS student body.
+
+<a href="https://github.com/ComradeMohan/saveetha-companion">
+<img src="https://img.shields.io/badge/Repo-2DD4BF?style=flat-square&logo=github&logoColor=0A0E14"/>
+</a>
+<!-- ↑ Verify this points at your current live SaveethaHub repo -->
+
+`Next.js` `Firebase` `Supabase` `Gemini AI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 UniVault
+**Android exam-prep app, live on Google Play.**
+
+Kotlin · PHP — helps students prepare for university exams with structured practice, built end-to-end and published to production.
+
+<a href="https://play.google.com/store/apps/details?id=com.simats.univault">
+<img src="https://img.shields.io/badge/Google_Play-2DD4BF?style=flat-square&logo=googleplay&logoColor=0A0E14"/>
+</a>
+<!-- ↑ Add your repo badge here too once you confirm the public URL -->
+
+`Kotlin` `PHP` `Android`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mmohanreddy">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ComradeMohan">
+<img src="https://img.shields.io/badge/GitHub-0A0E14?style=for-the-badge&logo=github&logoColor=2DD4BF"/>
 </a>
 
 <a href="https://leetcode.com/u/comrademohan/">
@@ -58,7 +116,7 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -87,6 +145,7 @@
 </div>
 
 ---
+
 ## 📊 Developer Dashboard
 
 <div align="center">
@@ -133,21 +192,15 @@
 
 ---
 
-# 🎨 3D Contribution Graph
+## 🎨 3D Contribution Graph
 
 <div align="center">
-
-<div align="center">
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
   <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt = "comrade mohan 3d contributin graph>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Comrade Mohan's 3D contribution graph" width="100%"/>
 </picture>
-
-</div>
 
 </div>
 
@@ -159,9 +212,6 @@
 
 > *"Programs must be written for people to read, and only incidentally for machines to execute."*
 
-<br>
-
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/> -->
+📬 **Open to SDE Internship & New-Grad Roles** — [Email](mailto:madhiremohanreddy@gmail.com) · [Portfolio](https://mohanreddy.me) · [LinkedIn](https://www.linkedin.com/in/mmohanreddy)
 
 </div>
-
