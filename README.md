@@ -105,14 +105,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://leetcard.jacoblin.cool/comrademohan?theme=dark&ext=heatmap">
+    srcset="./assets/leetcode/leetcode-dark.svg">
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://leetcard.jacoblin.cool/comrademohan?theme=default&ext=heatmap">
+    srcset="./assets/leetcode/leetcode-light.svg">
 
   <img
-    src="https://leetcard.jacoblin.cool/comrademohan?theme=dark&ext=heatmap">
+    src="https://leetcard.jacoblin.cool/comrademohan?theme=dark&ext=heatmap"
+    alt="LeetCode Stats">
 </picture>
 
 </div>
