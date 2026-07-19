@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Create folder
         run: mkdir -p assets/leetcode
@@ -36,15 +38,19 @@ jobs:
           sed -i 's/svg{opacity:0}/svg{opacity:1}/' assets/leetcode/leetcode-dark.svg
           sed -i 's/svg{opacity:0}/svg{opacity:1}/' assets/leetcode/leetcode-light.svg
 
-      - name: Commit changes
+      - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add assets/leetcode/*.svg
 
-          git diff --cached --quiet && exit 0
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
 
           git commit -m "chore: update LeetCode cards"
 
+          git pull --rebase origin main
           git push
