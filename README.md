@@ -123,30 +123,13 @@ Kotlin · PHP — helps students prepare for university exams with structured pr
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,kotlin,php,js,ts"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,kotlin,php,js,ts,react,nextjs,tailwind,bootstrap"/>
 
 <br>
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css"/>
-
-<br>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,mysql"/>
-
-<br>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,express,firebase,supabase,mongodb,mysql,git,github,docker,linux,vscode,figma,postman"/>
 
 </div>
-
 ---
 
 ## 📊 Developer Dashboard
