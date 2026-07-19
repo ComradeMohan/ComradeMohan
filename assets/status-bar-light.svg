@@ -1,0 +1,38 @@
+<svg width="840" height="64" viewBox="0 0 840 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Status: open to SDE roles, OCP Java SE 17 certified, B.E. CSE Simats 2026">
+  <defs>
+    <pattern id="grid-light" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M 16 0 L 0 0 0 16" fill="none" stroke="#0d9488" stroke-width="0.5" opacity="0.10"/>
+    </pattern>
+    <linearGradient id="sweep-light" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#2dd4bf" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip-light">
+      <rect x="1" y="1" width="838" height="62" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="838" height="62" rx="10" fill="#f8fafc"/>
+
+  <g clip-path="url(#clip-light)">
+    <rect x="1" y="1" width="838" height="62" fill="url(#grid-light)"/>
+    <rect x="-160" y="1" width="160" height="62" fill="url(#sweep-light)">
+      <animate attributeName="x" values="-160;840;-160" dur="7s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="1" y="1" width="838" height="62" rx="10" fill="none" stroke="#0d9488" stroke-opacity="0.35" stroke-width="1"/>
+
+  <line x1="292" y1="16" x2="292" y2="48" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="596" y1="16" x2="596" y2="48" stroke="#e2e8f0" stroke-width="1"/>
+
+  <circle cx="34" cy="32" r="4" fill="#0d9488">
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="50" y="37" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="13" font-weight="700" letter-spacing="0.5" fill="#0f766e">OPEN TO SDE ROLES</text>
+
+  <text x="312" y="37" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="12" letter-spacing="0.3" fill="#475569">OCP JAVA SE 17 CERTIFIED</text>
+
+  <text x="616" y="37" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="12" letter-spacing="0.3" fill="#64748b">B.E. CSE · SIMATS · 2026</text>
+</svg>
