@@ -102,7 +102,18 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/comrademohan?theme=unicorn&font=JetBrains+Mono&ext=heatmap"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://leetcard.jacoblin.cool/comrademohan?theme=dark&ext=heatmap">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://leetcard.jacoblin.cool/comrademohan?theme=default&ext=heatmap">
+
+  <img
+    src="https://leetcard.jacoblin.cool/comrademohan?theme=dark&ext=heatmap">
+</picture>
 
 </div>
 
