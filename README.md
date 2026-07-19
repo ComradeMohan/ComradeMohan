@@ -137,7 +137,23 @@
 
 <div align="center">
 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./profile-3d-contrib/profile-season-animate.svg">
+
+  <img
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    alt="3D Contribution Graph" />
+</picture>
+
+</div>
 
 </div>
 
