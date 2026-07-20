@@ -89,12 +89,12 @@
 <picture>
   <!-- Dark • Mobile -->
   <source
-    media="(prefers-color-scheme: dark) and (max-width: 768px)"
+    media="(prefers-color-scheme: dark)"
     srcset="./assets/featured-projects-mobile-dark.svg">
 
   <!-- Light • Mobile -->
   <source
-    media="(prefers-color-scheme: light) and (max-width: 768px)"
+    media="(prefers-color-scheme: light)"
     srcset="./assets/featured-projects-mobile-light.svg">
 
   <!-- Dark • Laptop/Desktop -->
