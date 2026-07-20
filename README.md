@@ -92,35 +92,24 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-
 <picture>
-
-  <!-- Mobile • Dark -->
+  <!-- Mobile -->
   <source
-    media="(prefers-color-scheme: dark) and (max-width:768px)"
+    media="(max-width:768px)"
     srcset="./assets/featured-projects-mobile-dark.svg">
 
-  <!-- Mobile • Light -->
+  <!-- Laptop/Desktop -->
   <source
-    media="(prefers-color-scheme: light) and (max-width:768px)"
-    srcset="./assets/featured-projects-mobile-light.svg">
-
-  <!-- Laptop • Dark -->
-  <source
-    media="(prefers-color-scheme: dark) and (min-width:769px)"
+    media="(min-width:769px)"
     srcset="./assets/featured-projects-dark.svg">
 
-  <!-- Laptop • Light -->
-  <source
-    media="(prefers-color-scheme: light) and (min-width:769px)"
-    srcset="./assets/featured-light.svg">
-
+  <!-- Fallback -->
   <img
-    src="./assets/featured-projects-dark.svg"
+    src="./assets/featured-projects-light.svg"
     width="100%"
     alt="Featured Projects">
-
 </picture>
+
 ---
 
 ## 🌐 Connect With Me
