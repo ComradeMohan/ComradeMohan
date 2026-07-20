@@ -93,22 +93,11 @@
 
 <p align="center">
 <picture>
-  <!-- Mobile -->
-  <source
-    media="(max-width:768px)"
-    srcset="./assets/featured-projects-mobile-dark.svg">
-
-  <!-- Laptop/Desktop -->
-  <source
-    media="(min-width:769px)"
-    srcset="./assets/featured-projects-dark.svg">
-
-  <!-- Fallback -->
-  <img
-    src="./assets/featured-projects-light.svg"
-    width="100%"
-    alt="Featured Projects">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/featured-projects-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/featured-projects-light.svg">
+  <img src="./assets/featured-projects-dark.svg" width="100%" alt="Featured Projects">
 </picture>
+</p>
 
 ---
 
