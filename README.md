@@ -84,40 +84,37 @@
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<p align="center">
 
-### 📚 SaveethaHub
-**Academic platform for university students, built and shipped to thousands of active users.**
+<picture>
+  <!-- Dark • Mobile -->
+  <source
+    media="(prefers-color-scheme: dark) and (max-width: 768px)"
+    srcset="./assets/featured-projects-mobile-dark.svg">
 
-Next.js · Firebase · Supabase · Gemini AI — course resources, tools, and AI-assisted academic workflows for the SIMATS student body.
+  <!-- Light • Mobile -->
+  <source
+    media="(prefers-color-scheme: light) and (max-width: 768px)"
+    srcset="./assets/featured-projects-mobile-light.svg">
 
-<a href="https://github.com/ComradeMohan/saveetha-companion">
-<img src="https://img.shields.io/badge/Repo-2DD4BF?style=flat-square&logo=github&logoColor=0A0E14"/>
-</a>
-<!-- ↑ Verify this points at your current live SaveethaHub repo -->
+  <!-- Dark • Laptop/Desktop -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/featured-projects-laptop-dark.svg">
 
-`Next.js` `Firebase` `Supabase` `Gemini AI`
+  <!-- Light • Laptop/Desktop -->
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/featured-projects-light.svg">
 
-</td>
-<td width="50%" valign="top">
+  <!-- Fallback -->
+  <img
+    src="./assets/featured-projects-dark.svg"
+    width="100%"
+    alt="Featured Projects">
+</picture>
 
-### 🎓 UniVault
-**Android exam-prep app, live on Google Play.**
-
-Kotlin · PHP — helps students prepare for university exams with structured practice, built end-to-end and published to production.
-
-<a href="https://play.google.com/store/apps/details?id=com.simats.univault">
-<img src="https://img.shields.io/badge/Google_Play-2DD4BF?style=flat-square&logo=googleplay&logoColor=0A0E14"/>
-</a>
-<!-- ↑ Add your repo badge here too once you confirm the public URL -->
-
-`Kotlin` `PHP` `Android`
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
