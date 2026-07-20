@@ -6,6 +6,13 @@
   <img src="./profile-combined.svg" alt="Comrade Mohan — Full-Stack Developer & Product Builder" width="100%"/>
 </picture>
 
+
+<picture>
+    <source media="(max-width:768px)" srcset="./profile-combined-light.svg">
+    <source media="(min-width:769px)" srcset="./profile-combined.svg">
+    <img src="./assets/featured-projects-mobile-dark.svg" width="100%">
+</picture>
+
 # 👋 Hi, I'm M Mohan Reddy
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=Building+SaveethaHub+%E2%80%94+Academic+Platform;Building+UniVault+%E2%80%94+Android+Exam+Prep;Oracle+Certified+Java+SE+17+Developer;Final-Year+CS+%40+SIMATS+University;Open+to+SDE+Internship+%26+New-Grad+Roles" alt="Typing SVG"/>
@@ -87,35 +94,33 @@
 <p align="center">
 
 <picture>
-  <!-- Dark • Mobile -->
+
+  <!-- Mobile • Dark -->
   <source
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: dark) and (max-width:768px)"
     srcset="./assets/featured-projects-mobile-dark.svg">
 
-  <!-- Light • Mobile -->
+  <!-- Mobile • Light -->
   <source
-    media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: light) and (max-width:768px)"
     srcset="./assets/featured-projects-mobile-light.svg">
 
-  <!-- Dark • Laptop/Desktop -->
+  <!-- Laptop • Dark -->
   <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/featured-projects-laptop-dark.svg">
+    media="(prefers-color-scheme: dark) and (min-width:769px)"
+    srcset="./assets/featured-projects-dark.svg">
 
-  <!-- Light • Laptop/Desktop -->
+  <!-- Laptop • Light -->
   <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/featured-projects-light.svg">
+    media="(prefers-color-scheme: light) and (min-width:769px)"
+    srcset="./assets/featured-light.svg">
 
-  <!-- Fallback -->
   <img
     src="./assets/featured-projects-dark.svg"
     width="100%"
     alt="Featured Projects">
+
 </picture>
-
-</p>
-
 ---
 
 ## 🌐 Connect With Me
