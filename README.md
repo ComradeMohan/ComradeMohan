@@ -11,8 +11,19 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=Building+SaveethaHub+%E2%80%94+Academic+Platform;Building+UniVault+%E2%80%94+Android+Exam+Prep;Oracle+Certified+Java+SE+17+Developer;Final-Year+CS+%40+SIMATS+University;Open+to+SDE+Internship+%26+New-Grad+Roles" alt="Typing SVG"/>
 
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://komarev.com/ghpvc/?username=COMRADEMOHAN&label=Profile+Views&style=for-the-badge&color=10B981">
 
-<img src="https://komarev.com/ghpvc/?username=COMRADEMOHAN&label=Profile+Views&style=for-the-badge&color=14B8A6"/>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://komarev.com/ghpvc/?username=COMRADEMOHAN&label=Profile+Views&style=for-the-badge&color=059669">
+
+  <img
+    src="https://komarev.com/ghpvc/?username=COMRADEMOHAN&label=Profile+Views&style=for-the-badge&color=10B981"
+    alt="Profile Views">
+</picture>
 
 
 <!-- Signature status strip — custom SVG asset, save alongside README as ./assets/status-bar.svg -->
@@ -23,16 +34,35 @@
 </picture>
 
 
+<div align="center">
 
 <a href="https://mohanreddy.me">
-<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=firefox&logoColor=2DD4BF"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=firefox&logoColor=2DD4BF">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-F8FAFC?style=for-the-badge&logo=firefox&logoColor=0F172A&labelColor=F8FAFC&color=F8FAFC">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=firefox&logoColor=2DD4BF" alt="Portfolio">
+</picture>
 </a>
+
 <a href="mailto:madhiremohanreddy@gmail.com">
-<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=2DD4BF"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=2DD4BF">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-F8FAFC?style=for-the-badge&logo=gmail&logoColor=0F172A&labelColor=F8FAFC&color=F8FAFC">
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=2DD4BF" alt="Email">
+</picture>
 </a>
+
 <a href="https://www.linkedin.com/in/mmohanreddy">
-<img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=readdotcv&logoColor=2DD4BF"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=readdotcv&logoColor=2DD4BF">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Resume-F8FAFC?style=for-the-badge&logo=readdotcv&logoColor=0F172A&labelColor=F8FAFC&color=F8FAFC">
+  <img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=readdotcv&logoColor=2DD4BF" alt="Resume">
+</picture>
 </a>
+
+</div>
+
+
 <!-- ↑ Point the Resume badge at a direct PDF link or your interactive resume page once hosted -->
 
 </div>
@@ -123,11 +153,37 @@ Kotlin · PHP — helps students prepare for university exams with structured pr
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,kotlin,php,js,ts,react,nextjs,tailwind,bootstrap"/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://skillicons.dev/icons?i=java,python,cpp,kotlin,php,js,ts,react,nextjs,tailwind,bootstrap&theme=dark">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://skillicons.dev/icons?i=java,python,cpp,kotlin,php,js,ts,react,nextjs,tailwind,bootstrap&theme=light">
+
+  <img
+    src="https://skillicons.dev/icons?i=java,python,cpp,kotlin,php,js,ts,react,nextjs,tailwind,bootstrap&theme=light"
+    alt="Tech Stack">
+</picture>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,nodejs,express,firebase,supabase,mongodb,mysql,git,github,docker,linux,vscode,figma,postman"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://skillicons.dev/icons?i=html,css,nodejs,express,firebase,supabase,mongodb,mysql,git,github,docker,linux,vscode,figma,postman&theme=dark">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://skillicons.dev/icons?i=html,css,nodejs,express,firebase,supabase,mongodb,mysql,git,github,docker,linux,vscode,figma,postman&theme=light">
+
+  <img
+    src="https://skillicons.dev/icons?i=html,css,nodejs,express,firebase,supabase,mongodb,mysql,git,github,docker,linux,vscode,figma,postman&theme=dark"
+    alt="Tools & Technologies">
+</picture>
+
 
 </div>
 ---
