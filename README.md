@@ -192,8 +192,25 @@ Kotlin · PHP — helps students prepare for university exams with structured pr
 
 <div align="center">
 
-<img width="92%" src="https://streak-stats.demolab.com?user=COMRADEMOHAN&theme=transparent&hide_border=true&background=0F172A00&stroke=2DD4BF&ring=2DD4BF&fire=2DD4BF&currStreakNum=2DD4BF&sideNums=94A3B8&currStreakLabel=2DD4BF&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak Stats"/>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="50%">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/comrademohan?theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/comrademohan?theme=light">
+  <img width="100%" src="https://leetcard.jacoblin.cool/comrademohan?theme=dark" alt="LeetCode Stats">
+</picture>
+
+</td>
+
+<td align="center" width="50%">
+
+<img width="100%" src="https://streak-stats.demolab.com?user=COMRADEMOHAN&theme=transparent&hide_border=true&background=0F172A00&stroke=2DD4BF&ring=2DD4BF&fire=2DD4BF&currStreakNum=2DD4BF&sideNums=94A3B8&currStreakLabel=2DD4BF&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak Stats"/>
+
+</td>
+</tr>
+</table>
 <br>
 
 <table width="92%">
@@ -219,11 +236,11 @@ Kotlin · PHP — helps students prepare for university exams with structured pr
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/leetcode/leetcode-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/leetcode/leetcode-light.svg">
-  <img src="https://leetcard.jacoblin.cool/comrademohan?theme=dark&ext=heatmap" alt="LeetCode Stats">
-</picture>
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/comrademohan?theme=dark">
+  <source media4="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/comrademohan?theme=light">
+  <img src="https://leetcard.jacoblin.cool/comrademohan?theme=dark" alt="LeetCode Stats">
+</picture> -->
 
 </div>
 <br>
