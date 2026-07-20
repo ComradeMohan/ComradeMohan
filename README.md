@@ -7,11 +7,11 @@
 </picture>
 
 
-<picture>
+<!-- <picture>
     <source media="(max-width:768px)" srcset="./profile-combined-light.svg">
     <source media="(min-width:769px)" srcset="./profile-combined.svg">
     <img src="./assets/featured-projects-mobile-dark.svg" width="100%">
-</picture>
+</picture> -->
 
 # 👋 Hi, I'm M Mohan Reddy
 
