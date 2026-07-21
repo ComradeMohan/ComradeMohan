@@ -1,3 +1,18 @@
+<picture>
+  <source
+    media="(max-width:768px)"
+    srcset="https://raw.githubusercontent.com/ComradeMohan/ComradeMohan/main/assets/featured-project-mobile.svg">
+
+  <source
+    media="(min-width:769px)"
+    srcset="https://raw.githubusercontent.com/ComradeMohan/ComradeMohan/main/assets/featured-project-laptop.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/ComradeMohan/ComradeMohan/main/assets/featured-project-laptop.svg"
+    width="100%"
+    alt="Featured Projects">
+</picture>
+
 <div align="center">
 
 <picture>
