@@ -2,7 +2,21 @@
   <defs>
     <!-- Fonts styling -->
     <style>
-:root{--bg-card:var(--bg-card);--border-1:var(--border-1);--border-2:var(--border-2);--grid:var(--border-1);--accent:var(--accent);--accent-soft:var(--accent-soft);--pill:var(--pill);--title:var(--title);--text:var(--text);--chip:var(--chip);}
+:root{
+  --bg-card:#F6F8FA;
+  --border-1:#D0D7DE;
+  --border-2:#E1E5EA;
+  --grid:#D0D7DE;
+
+  --accent:#0F766E;
+  --accent-soft:#CCFBF1;
+  --pill:#E6F4F1;
+
+  --title:#24292F;
+  --text:#57606A;
+
+  --chip:#FFFFFF;
+}
 @media (prefers-color-scheme: dark){
 :root{--bg-card:#0f172a;--border-1:#1e293b;--border-2:#334155;--grid:#1e293b;--accent:#2dd4bf;--accent-soft:rgba(45,212,191,.14);--pill:rgba(45,212,191,.08);--title:#e2e8f0;--text:#94a3b8;--chip:#0b1220;}
 }
