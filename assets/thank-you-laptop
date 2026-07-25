@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1200 220"
+     width="1200" height="220"
+     role="img" aria-label="Thanks for Visiting">
+
+<defs>
+<style>
+:root{
+ --text:#0f172a;
+ --muted:#475569;
+ --accent:#0d9488;
+}
+@media (prefers-color-scheme: dark){
+:root{
+ --text:#e2e8f0;
+ --muted:#94a3b8;
+ --accent:#2dd4bf;
+}
+}
+text{font-family:Inter,"Segoe UI",Arial,sans-serif}
+.title{font-size:40px;font-weight:800;fill:url(#titleShimmer)}
+.quote{font-size:18px;font-style:italic;fill:var(--muted)}
+.cta{font-size:18px;font-weight:700;fill:var(--accent)}
+.links{font-size:16px;font-weight:600;fill:var(--accent)}
+.url{font-size:14px;fill:var(--muted)}
+</style>
+
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+  <feGaussianBlur stdDeviation="6" result="b"/>
+  <feMerge>
+    <feMergeNode in="b"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+
+<linearGradient id="titleShimmer" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%"  stop-color="var(--text)"/>
+  <stop offset="42%" stop-color="var(--text)"/>
+  <stop offset="50%" stop-color="var(--accent)"/>
+  <stop offset="58%" stop-color="var(--text)"/>
+  <stop offset="100%" stop-color="var(--text)"/>
+  <animateTransform attributeName="gradientTransform"
+    type="translate"
+    values="-1 0;1.4 0;-1 0"
+    dur="6s"
+    repeatCount="indefinite"/>
+</linearGradient>
+</defs>
+
+<!-- Animated top accent -->
+<line x1="10" y1="18" x2="1190" y2="18"
+      stroke="var(--accent)"
+      stroke-width="2"
+      opacity=".25">
+  <animate attributeName="opacity"
+           values=".15;.55;.15"
+           dur="3s"
+           repeatCount="indefinite"/>
+</line>
+
+<!-- Traveling light: top line -->
+<circle cy="18" r="3" fill="var(--accent)" filter="url(#glow)">
+  <animate attributeName="cx" values="10;1190;10" dur="8s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.15;.85;1" dur="8s" repeatCount="indefinite"/>
+</circle>
+
+<!-- Animated star -->
+<g transform="translate(600 18)">
+  <g>
+    <animateTransform attributeName="transform"
+      type="rotate"
+      values="0;12;0;-12;0"
+      dur="6s"
+      repeatCount="indefinite"/>
+    <path d="M0-7L2-2L7 0L2 2L0 7L-2 2L-7 0L-2-2Z"
+          fill="var(--accent)"
+          filter="url(#glow)">
+      <animateTransform attributeName="transform"
+        type="scale"
+        values="1;1.35;1"
+        dur="2.5s"
+        repeatCount="indefinite"/>
+      <animate attributeName="opacity"
+        values=".8;1;.8"
+        dur="2.5s"
+        repeatCount="indefinite"/>
+    </path>
+  </g>
+</g>
+
+<!-- Floating particles -->
+<circle cx="120" cy="70" r="2.2" fill="var(--accent)" opacity=".4">
+  <animate attributeName="cy" values="70;60;70" dur="5s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1080" cy="155" r="2.2" fill="var(--accent)" opacity=".35">
+  <animate attributeName="cy" values="155;145;155" dur="6s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1020" cy="55" r="1.8" fill="var(--accent)" opacity=".3">
+  <animate attributeName="opacity" values=".2;.7;.2" dur="4s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="180" cy="170" r="1.8" fill="var(--accent)" opacity=".3">
+  <animate attributeName="opacity" values=".7;.2;.7" dur="4.5s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="330" cy="45" r="1.6" fill="var(--accent)" opacity=".3">
+  <animate attributeName="cx" values="330;345;330" dur="7s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".15;.6;.15" dur="5.5s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="900" cy="185" r="2" fill="var(--accent)" opacity=".3">
+  <animate attributeName="cx" values="900;882;900" dur="6.5s" repeatCount="indefinite"/>
+  <animate attributeName="cy" values="185;178;185" dur="6.5s" repeatCount="indefinite"/>
+</circle>
+
+<g transform="translate(10 0)">
+<text x="590" y="62" text-anchor="middle" class="title">
+Thanks for Visiting!
+</text>
+
+<text x="590" y="100" text-anchor="middle" class="quote">
+"Programs must be written for people to read, and only incidentally for machines to execute."
+</text>
+
+<g>
+  <animate attributeName="opacity" values=".82;1;.82" dur="4s" repeatCount="indefinite"/>
+  <text x="590" y="135" text-anchor="middle" class="cta">
+Open to SDE Internships • New‑Grad Roles
+</text>
+</g>
+
+<text x="590" y="170" text-anchor="middle" class="links">
+Email • Portfolio • LinkedIn • GitHub
+</text>
+
+<text x="590" y="198" text-anchor="middle" class="url">
+mohanreddy.me
+</text>
+
+<line x1="0" y1="214" x2="1180" y2="214"
+      stroke="var(--accent)"
+      stroke-width="2"
+      opacity=".25">
+  <animate attributeName="opacity"
+           values=".15;.45;.15"
+           dur="3s"
+           repeatCount="indefinite"/>
+</line>
+
+<circle cy="214" r="3" fill="var(--accent)" filter="url(#glow)">
+  <animate attributeName="cx" values="1180;0;1180" dur="9s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.85;.85;0" keyTimes="0;.15;.85;1" dur="9s" repeatCount="indefinite"/>
+</circle>
+
+</g>
+
+</svg>
