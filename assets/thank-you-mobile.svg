@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 440 230"
+     width="440"
+     height="230"
+     role="img"
+     aria-label="Thanks for Visiting">
+
+<defs>
+<style>
+:root{
+ --text:#0f172a;
+ --muted:#475569;
+ --accent:#0d9488;
+}
+@media (prefers-color-scheme: dark){
+:root{
+ --text:#e2e8f0;
+ --muted:#94a3b8;
+ --accent:#2dd4bf;
+}
+}
+text{font-family:Inter,"Segoe UI",Arial,sans-serif}
+.title{font-size:28px;font-weight:800;fill:url(#titleShimmer)}
+.quote{font-size:13px;font-style:italic;fill:var(--muted)}
+.cta{font-size:13px;font-weight:700;fill:var(--accent)}
+.links{font-size:13px;font-weight:600;fill:var(--accent)}
+.url{font-size:12px;fill:var(--muted)}
+</style>
+
+<filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+<feGaussianBlur stdDeviation="4" result="b"/>
+<feMerge>
+<feMergeNode in="b"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+<linearGradient id="titleShimmer" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="var(--text)"/>
+<stop offset="42%" stop-color="var(--text)"/>
+<stop offset="50%" stop-color="var(--accent)"/>
+<stop offset="58%" stop-color="var(--text)"/>
+<stop offset="100%" stop-color="var(--text)"/>
+<animateTransform attributeName="gradientTransform"
+type="translate"
+values="-1 0;1.4 0;-1 0"
+dur="6s"
+repeatCount="indefinite"/>
+</linearGradient>
+</defs>
+
+<line x1="15" y1="22" x2="425" y2="22"
+stroke="var(--accent)"
+stroke-width="2"
+opacity=".25">
+<animate attributeName="opacity"
+values=".2;.6;.2"
+dur="3s"
+repeatCount="indefinite"/>
+</line>
+
+<line x1="15" y1="200" x2="425" y2="200"
+stroke="var(--accent)"
+stroke-width="2"
+opacity=".25">
+<animate attributeName="opacity"
+values=".2;.6;.2"
+dur="3s"
+repeatCount="indefinite"/>
+</line>
+
+<g transform="translate(220 45)">
+<g>
+<animateTransform attributeName="transform"
+type="rotate"
+values="0;12;0;-12;0"
+dur="6s"
+repeatCount="indefinite"/>
+<path d="M0-9L3-3L9 0L3 3L0 9L-3 3L-9 0L-3-3Z"
+fill="var(--accent)"
+filter="url(#glow)">
+<animateTransform attributeName="transform"
+type="scale"
+values="1;1.3;1"
+dur="2.4s"
+repeatCount="indefinite"/>
+</path>
+</g>
+</g>
+
+<circle cx="55" cy="95" r="2" fill="var(--accent)" opacity=".3">
+<animate attributeName="cy" values="95;85;95" dur="5s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="388" cy="110" r="2" fill="var(--accent)" opacity=".3">
+<animate attributeName="cy" values="110;100;110" dur="6s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="75" cy="365" r="1.7" fill="var(--accent)" opacity=".3">
+<animate attributeName="opacity" values=".2;.8;.2" dur="4s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="370" cy="355" r="1.7" fill="var(--accent)" opacity=".3">
+<animate attributeName="opacity" values=".8;.2;.8" dur="4.5s" repeatCount="indefinite"/>
+</circle>
+
+<text x="220" y="105" text-anchor="middle" class="title">
+Thanks for Visiting!
+</text>
+
+<text x="220" y="128" text-anchor="middle" class="quote">
+Programs must be written
+for people to read,
+
+</text>
+<text x="220" y="150" text-anchor="middle" class="quote">
+and only incidentally for machines to execute.
+</text>
+
+<g>
+<animate attributeName="opacity"
+values=".82;1;.82"
+dur="4s"
+repeatCount="indefinite"/>
+<text x="220" y="170" text-anchor="middle" class="cta">
+• Open to SDE Internships • New‑Grad Roles 
+</text>
+</g>
+
+<text x="220" y="190" text-anchor="middle" class="url">
+mohanreddy.me
+</text>
+
+</svg>
