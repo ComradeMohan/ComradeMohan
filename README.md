@@ -253,7 +253,7 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ## ⭐ Thanks for Visiting!
 
@@ -261,4 +261,9 @@
 
 📬 **Open to SDE Internship & New-Grad Roles** — [Email](mailto:madhiremohanreddy@gmail.com) · [Portfolio](https://mohanreddy.me) · [LinkedIn](https://www.linkedin.com/in/mmohanreddy)
 
-</div>
+</div> -->
+<picture>
+    <source media="(max-width:768px)" srcset="./assets/thank-you-mobile.svg">
+    <source media="(min-width:769px)" srcset="./assets/thank-you-laptop.svg">
+    <img src="./assets/thank-you-laptop.svg" width="100%">
+</picture> 
