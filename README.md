@@ -1,11 +1,11 @@
 <div align="center">
-
+<a href="https://mohanreddy.me/about" target="_blank" rel="noopener noreferrer">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-combined.svg">
   <source media="(prefers-color-scheme: light)" srcset="./profile-combined-light.svg">
   <img src="./profile-combined.svg" alt="Comrade Mohan — Full-Stack Developer & Product Builder" width="100%"/>
 </picture>
-
+</a>
 
 <!-- <picture>
     <source media="(max-width:768px)" srcset="./assets/featured-project-mobile.svg">
@@ -16,7 +16,6 @@
 # 👋 Hi, I'm M Mohan Reddy
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=Building+SaveethaHub+%E2%80%94+Academic+Platform;Building+UniVault+%E2%80%94+Android+Exam+Prep;Oracle+Certified+Java+SE+17+Developer;Final-Year+CS+%40+SIMATS+University;Open+to+SDE+Internship+%26+New-Grad+Roles" alt="Typing SVG"/>
-
 
 <picture>
   <source
@@ -32,14 +31,12 @@
     alt="Profile Views">
 </picture>
 
-
 <!-- Signature status strip — custom SVG asset, save alongside README as ./assets/status-bar.svg -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/status-bar.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/status-bar-light.svg">
   <img src="./assets/status-bar.svg" alt="Open to SDE roles · OCP Java SE 17 Certified · B.E. CSE, SIMATS, 2026" width="100%"/>
 </picture>
-
 
 <div align="center">
 
@@ -69,7 +66,6 @@
 
 </div>
 
-
 <!-- ↑ Point the Resume badge at a direct PDF link or your interactive resume page once hosted -->
 
 </div>
@@ -92,12 +88,13 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-
+<a href="https://mohanreddy.me/#projects" target="_blank" rel="noopener noreferrer">
   <picture>
     <source media="(max-width:768px)" srcset="./assets/featured-project-mobile.svg">
     <source media="(min-width:769px)" srcset="./assets/featured-project-laptop.svg">
     <img src="./assets/featured-project-laptop.svg" width="100%">
-</picture> 
+</picture>
+</a>
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/featured-projects-dark.svg">
@@ -141,7 +138,6 @@
 
 <div align="center">
 
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -172,7 +168,6 @@
     alt="Tools & Technologies">
 </picture>
 
-
 </div>
 ---
 
@@ -184,11 +179,13 @@
 <tr>
 <td align="center" width="50%">
 
+<a href="https://leetcode.com/u/Comrademohan" target="_blank" rel="noopener noreferrer">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/comrademohan?theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/comrademohan?theme=light">
   <img width="100%" src="https://leetcard.jacoblin.cool/comrademohan?theme=dark" alt="LeetCode Stats">
 </picture>
+</a>
 
 </td>
 
@@ -262,8 +259,10 @@
 📬 **Open to SDE Internship & New-Grad Roles** — [Email](mailto:madhiremohanreddy@gmail.com) · [Portfolio](https://mohanreddy.me) · [LinkedIn](https://www.linkedin.com/in/mmohanreddy)
 
 </div> -->
+<a href="https://mohanreddy.me" target="_blank" rel="noopener noreferrer">
 <picture>
     <source media="(max-width:768px)" srcset="./assets/thank-you-mobile.svg">
     <source media="(min-width:769px)" srcset="./assets/thank-you-laptop.svg">
     <img src="./assets/thank-you-laptop.svg" width="100%">
-</picture> 
+</picture>
+</a>
