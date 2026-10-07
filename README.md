@@ -111,23 +111,23 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mmohanreddy">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="./assets/linkedin_gradient_wave.svg" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/ComradeMohan">
-<img src="https://img.shields.io/badge/GitHub-0A0E14?style=for-the-badge&logo=github&logoColor=2DD4BF"/>
+  <img src="./assets/github_gradient_wave.svg" alt="GitHub"/>
 </a>
 
 <a href="https://leetcode.com/u/comrademohan/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="./assets/leetcode_gradient_wave.svg" alt="LeetCode"/>
 </a>
 
 <a href="https://kaggle.com/mohanreddy007">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="./assets/kaggle_gradient_wave.svg" alt="Kaggle"/>
 </a>
 
 <a href="https://www.instagram.com/comrade_mohan666/">
-<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="./assets/instagram_gradient_wave.svg" alt="Instagram"/>
 </a>
 
 </div>
