@@ -110,25 +110,11 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mmohanreddy">
-  <img src="./assets/linkedin_gradient_wave.svg" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/ComradeMohan">
-  <img src="./assets/github_gradient_wave.svg" alt="GitHub"/>
-</a>
-
-<a href="https://leetcode.com/u/comrademohan/">
-  <img src="./assets/leetcode_gradient_wave.svg" alt="LeetCode"/>
-</a>
-
-<a href="https://kaggle.com/mohanreddy007">
-  <img src="./assets/kaggle_gradient_wave.svg" alt="Kaggle"/>
-</a>
-
-<a href="https://www.instagram.com/comrade_mohan666/">
-  <img src="./assets/instagram_gradient_wave.svg" alt="Instagram"/>
-</a>
+[![LinkedIn](https://raw.githubusercontent.com/ComradeMohan/ComradeMohan/main/assets/linkedin_gradient_wave.svg)](https://www.linkedin.com/in/mmohanreddy)&nbsp;&nbsp;
+[![GitHub](https://raw.githubusercontent.com/ComradeMohan/ComradeMohan/main/assets/github_gradient_wave.svg)](https://github.com/ComradeMohan)&nbsp;&nbsp;
+[![LeetCode](https://raw.githubusercontent.com/ComradeMohan/ComradeMohan/main/assets/leetcode_gradient_wave.svg)](https://leetcode.com/u/comrademohan/)&nbsp;&nbsp;
+[![Kaggle](https://raw.githubusercontent.com/ComradeMohan/ComradeMohan/main/assets/kaggle_gradient_wave.svg)](https://kaggle.com/mohanreddy007)&nbsp;&nbsp;
+[![Instagram](https://raw.githubusercontent.com/ComradeMohan/ComradeMohan/main/assets/instagram_gradient_wave.svg)](https://www.instagram.com/comrade_mohan666/)
 
 </div>
 
