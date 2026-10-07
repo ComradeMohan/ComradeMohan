@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="140" height="40" viewBox="0 0 140 40" role="img" aria-label="Instagram"
+     preserveAspectRatio="xMidYMid meet">
+  <title>Instagram</title>
+  <defs>
+    <linearGradient id="igWave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"    stop-color="#E1306C" stop-opacity="0"/>
+      <stop offset=".37"  stop-color="#E1306C" stop-opacity="0"/>
+      <stop offset=".48"  stop-color="#E1306C" stop-opacity=".32"/>
+      <stop offset=".59"  stop-color="#E1306C" stop-opacity="0"/>
+      <stop offset="1"    stop-color="#E1306C" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="igClip">
+      <rect x=".5" y=".5" width="139" height="39" rx="7"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .bg   { fill:#f4f7fa; stroke:#ccd6e1; stroke-width:1; }
+    .lbl  { fill:#1d2733; font-family:Inter,Segoe UI,Arial,sans-serif; font-size:12px; font-weight:700; }
+    .ico  { fill:none; stroke:#E1306C; stroke-width:1.6; stroke-linecap:round; stroke-linejoin:round; }
+    .dot  { fill:#E1306C; }
+    .btn  { animation:softPulse 3.4s ease-in-out infinite; }
+
+    @media (prefers-color-scheme:dark) {
+      .bg  { fill:#27323d; stroke:#526171; }
+      .lbl { fill:#e9eef3; }
+      .ico { stroke:#ff4f86; }
+      .dot { fill:#ff4f86; }
+    }
+
+    /* ── Row-04 exact match: 280×80 diagonal stripe sweeps L→R ── */
+    .waveGrp { animation: gradWave 2.4s linear infinite; }
+    @keyframes gradWave {
+      from { transform: translateX(-126px); }
+      to   { transform: translateX(126px);  }
+    }
+      to   { transform: translateX(280px);  }
+    }
+
+    @keyframes softPulse {
+      0%,100% { transform:scale(1); }
+      50%     { transform:scale(1.007); }
+    }
+
+    @media (prefers-reduced-motion:reduce) {
+    }
+  </style>
+
+  <g class="btn">
+    <rect class="bg" x=".5" y=".5" width="139" height="39" rx="7"/>
+
+    <g clip-path="url(#igClip)">
+      <!-- 280×80 element, skewX(-25) ≈ 115deg, sweeps ±126px — identical to HTML row 04 -->
+      <g class="waveGrp">
+        <rect x="-70" y="-20" width="280" height="80"
+              fill="url(#igWave)" transform="skewX(-25)"/>
+      </g>
+    </g>
+
+    <!-- Instagram icon: 20×20 at x=12, y=10 -->
+    <g transform="translate(12,10)">
+      <rect class="ico" x="2.9" y="2.9" width="14.2" height="14.2" rx="4.2"/>
+      <circle class="ico" cx="10" cy="10" r="3.33"/>
+      <circle class="dot" cx="14.5" cy="5.58" r="0.92"/>
+    </g>
+
+    <text class="lbl" x="39" y="25">Instagram</text>
+  </g>
+</svg>

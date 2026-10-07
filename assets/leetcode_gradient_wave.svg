@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="140" height="40" viewBox="0 0 140 40" role="img" aria-label="LeetCode"
+     preserveAspectRatio="xMidYMid meet">
+  <title>LeetCode</title>
+  <defs>
+    <linearGradient id="lcWave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"    stop-color="#FFA116" stop-opacity="0"/>
+      <stop offset=".37"  stop-color="#FFA116" stop-opacity="0"/>
+      <stop offset=".48"  stop-color="#FFA116" stop-opacity=".32"/>
+      <stop offset=".59"  stop-color="#FFA116" stop-opacity="0"/>
+      <stop offset="1"    stop-color="#FFA116" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="lcClip">
+      <rect x=".5" y=".5" width="139" height="39" rx="7"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .bg   { fill:#f4f7fa; stroke:#ccd6e1; stroke-width:1; }
+    .lbl  { fill:#1d2733; font-family:Inter,Segoe UI,Arial,sans-serif; font-size:12px; font-weight:700; }
+    .ico  { fill:#FFA116; }
+    .btn  { animation:softPulse 3.4s ease-in-out infinite; }
+
+    @media (prefers-color-scheme:dark) {
+      .bg  { fill:#27323d; stroke:#526171; }
+      .lbl { fill:#e9eef3; }
+      .ico { fill:#ffb22e; }
+    }
+
+    .waveGrp { animation: gradWave 2.4s linear infinite; }
+    @keyframes gradWave {
+      from { transform: translateX(-126px); }
+      to   { transform: translateX(126px);  }
+    }
+      to   { transform: translateX(280px);  }
+    }
+
+    @keyframes softPulse {
+      0%,100% { transform:scale(1); }
+      50%     { transform:scale(1.007); }
+    }
+
+    @media (prefers-reduced-motion:reduce) {
+    }
+  </style>
+
+  <g class="btn">
+    <rect class="bg" x=".5" y=".5" width="139" height="39" rx="7"/>
+
+    <g clip-path="url(#lcClip)">
+      <g class="waveGrp">
+        <rect x="-70" y="-20" width="280" height="80"
+              fill="url(#lcWave)" transform="skewX(-25)"/>
+      </g>
+    </g>
+
+    <!-- LeetCode icon: 20×20 at x=12, y=10 -->
+    <g transform="translate(12,10)">
+      <path class="ico" d="M11.15.37a1.15 1.15 0 0 0-.8.36L5.93 5.19l-3.2 3.44a4.38 4.38 0 0 0-1 1.75 4.46 4.46 0 0 0-.1.43 4.6 4.6 0 0 0 .05 1.96 4.85 4.85 0 0 0 .29.85 4.95 4.95 0 0 0 1.06 1.51l3.56 3.49.03.03c1.87 1.8 4.87 1.77 6.72-.06l2-1.99c.45-.45.45-1.18 0-1.63a1.15 1.15 0 0 0-1.62 0l-2 1.99a2.52 2.52 0 0 1-3.5.03l-.02-.02-3.56-3.49c-.54-.53-.8-1.22-.79-1.88a2.23 2.23 0 0 1 .05-.44 2.12 2.12 0 0 1 .52-.97l2.6-2.78c.88-.94 2.67-1.06 3.69-.23l2.91 2.36c.5.4 1.22.32 1.62-.17a1.15 1.15 0 0 0-.17-1.62L9.57 5.89a5.48 5.48 0 0 0-2.31-1L9.93 2.6a1.15 1.15 0 0 0-.79-1.97l2.01.02-.01-.28h0zM8.8 10.68a1.15 1.15 0 1 0 0 2.3h8.6a1.15 1.15 0 1 0 0-2.3H8.8z"/>
+    </g>
+
+    <text class="lbl" x="39" y="25">LeetCode</text>
+  </g>
+</svg>
