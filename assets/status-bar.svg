@@ -1,19 +1,71 @@
 <svg width="840" height="64" viewBox="0 0 840 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Status: open to SDE roles, OCP Java SE 17 certified, B.E. CSE Simats 2026">
   <defs>
+    <style>
+      /* ============ THEME TOKENS (auto light/dark) ============ */
+      :root {
+        --bg-card: #f8fafc;
+        --grid-stroke: #0d9488;
+        --grid-opacity: 0.10;
+        --sweep-color: #2dd4bf;
+        --sweep-opacity: 0.18;
+        --card-border: #0d9488;
+        --divider: #e2e8f0;
+        --status-dot: #0d9488;
+        --text-status: #0f766e;
+        --text-cert: #475569;
+        --text-meta: #64748b;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg-card: #0a0e14;
+          --grid-stroke: #2dd4bf;
+          --grid-opacity: 0.08;
+          --sweep-color: #2dd4bf;
+          --sweep-opacity: 0.22;
+          --card-border: #2dd4bf;
+          --divider: #1e293b;
+          --status-dot: #2dd4bf;
+          --text-status: #2dd4bf;
+          --text-cert: #94a3b8;
+          --text-meta: #64748b;
+        }
+      }
+
+      text {
+        font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+
+      .card-bg { fill: var(--bg-card); }
+      .grid-path { stroke: var(--grid-stroke); opacity: var(--grid-opacity); }
+      .sweep-stop { stop-color: var(--sweep-color); }
+      .sweep-mid { stop-opacity: var(--sweep-opacity); }
+      .card-border { stroke: var(--card-border); }
+      .divider { stroke: var(--divider); }
+      .status-dot { fill: var(--status-dot); }
+      .status-text { fill: var(--text-status); font-size: 13px; font-weight: 700; letter-spacing: 0.5px; }
+      .cert-text { fill: var(--text-cert); font-size: 12px; letter-spacing: 0.3px; }
+      .meta-text { fill: var(--text-meta); font-size: 12px; letter-spacing: 0.3px; }
+    </style>
+
     <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
-      <path d="M 16 0 L 0 0 0 16" fill="none" stroke="#2dd4bf" stroke-width="0.5" opacity="0.08"/>
+      <path class="grid-path" d="M 16 0 L 0 0 0 16" fill="none" stroke-width="0.5"/>
     </pattern>
+
     <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#2dd4bf" stop-opacity="0.22"/>
-      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/>
+      <stop class="sweep-stop" offset="0%" stop-opacity="0"/>
+      <stop class="sweep-stop sweep-mid" offset="50%"/>
+      <stop class="sweep-stop" offset="100%" stop-opacity="0"/>
     </linearGradient>
+
     <clipPath id="clip">
       <rect x="1" y="1" width="838" height="62" rx="10"/>
     </clipPath>
   </defs>
 
-  <rect x="1" y="1" width="838" height="62" rx="10" fill="#0a0e14"/>
+  <rect class="card-bg" x="1" y="1" width="838" height="62" rx="10"/>
 
   <g clip-path="url(#clip)">
     <rect x="1" y="1" width="838" height="62" fill="url(#grid)"/>
@@ -22,17 +74,16 @@
     </rect>
   </g>
 
-  <rect x="1" y="1" width="838" height="62" rx="10" fill="none" stroke="#2dd4bf" stroke-opacity="0.35" stroke-width="1"/>
+  <rect class="card-border" x="1" y="1" width="838" height="62" rx="10" fill="none" stroke-opacity="0.35" stroke-width="1"/>
 
-  <line x1="292" y1="16" x2="292" y2="48" stroke="#1e293b" stroke-width="1"/>
-  <line x1="596" y1="16" x2="596" y2="48" stroke="#1e293b" stroke-width="1"/>
+  <line class="divider" x1="292" y1="16" x2="292" y2="48" stroke-width="1"/>
+  <line class="divider" x1="596" y1="16" x2="596" y2="48" stroke-width="1"/>
 
-  <circle cx="34" cy="32" r="4" fill="#2dd4bf">
+  <circle class="status-dot" cx="34" cy="32" r="4">
     <animate attributeName="opacity" values="1;0.35;1" dur="1.8s" repeatCount="indefinite"/>
   </circle>
-  <text x="50" y="37" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="13" font-weight="700" letter-spacing="0.5" fill="#2dd4bf">OPEN TO SDE ROLES</text>
 
-  <text x="312" y="37" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="12" letter-spacing="0.3" fill="#94a3b8">OCP JAVA SE 17 CERTIFIED</text>
-
-  <text x="616" y="37" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="12" letter-spacing="0.3" fill="#64748b">B.E. CSE · SIMATS · 2026</text>
+  <text class="status-text" x="50" y="37">OPEN TO SDE ROLES</text>
+  <text class="cert-text" x="312" y="37">OCP JAVA SE 17 CERTIFIED</text>
+  <text class="meta-text" x="616" y="37">B.E. CSE · SIMATS · 2026</text>
 </svg>
