@@ -4,6 +4,11 @@
      preserveAspectRatio="xMidYMid meet">
   <title>Kaggle</title>
   <defs>
+    <!--
+      Sequential Gradient Wave (4 of 5 in sequence):
+        • Order: LinkedIn (0%-20%) -> GitHub (20%-40%) -> LeetCode (40%-60%) -> Kaggle (60%-80%) -> Instagram (80%-100%)
+        • Kaggle starts immediately at 60% right when LeetCode finishes.
+    -->
     <linearGradient id="kgWave" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0"    stop-color="#20BEFF" stop-opacity="0"/>
       <stop offset=".37"  stop-color="#20BEFF" stop-opacity="0"/>
@@ -20,7 +25,6 @@
     .bg   { fill:#f4f7fa; stroke:#ccd6e1; stroke-width:1; }
     .lbl  { fill:#1d2733; font-family:Inter,Segoe UI,Arial,sans-serif; font-size:12px; font-weight:700; }
     .ico  { fill:#20BEFF; }
-    .btn  { animation:softPulse 3.4s ease-in-out infinite; }
 
     @media (prefers-color-scheme:dark) {
       .bg  { fill:#27323d; stroke:#526171; }
@@ -28,20 +32,31 @@
       .ico { fill:#45c8ff; }
     }
 
-    .waveGrp { animation: gradWave 2.4s linear infinite; }
+    /* ── 4 of 5: Active 60% to 80% (4.8s to 6.4s) ── */
+    .waveGrp {
+      animation: gradWave 8s linear infinite;
+    }
     @keyframes gradWave {
-      from { transform: translateX(-126px); }
-      to   { transform: translateX(126px);  }
-    }
-      to   { transform: translateX(280px);  }
-    }
-
-    @keyframes softPulse {
-      0%,100% { transform:scale(1); }
-      50%     { transform:scale(1.007); }
+      0%, 59.999% {
+        transform: translateX(-130px);
+        opacity: 0;
+      }
+      60% {
+        transform: translateX(-130px);
+        opacity: 1;
+      }
+      80% {
+        transform: translateX(130px);
+        opacity: 1;
+      }
+      80.001%, 100% {
+        transform: translateX(-130px);
+        opacity: 0;
+      }
     }
 
     @media (prefers-reduced-motion:reduce) {
+      .waveGrp { animation: none; }
     }
   </style>
 

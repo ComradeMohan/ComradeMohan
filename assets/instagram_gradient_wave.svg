@@ -4,6 +4,12 @@
      preserveAspectRatio="xMidYMid meet">
   <title>Instagram</title>
   <defs>
+    <!--
+      Sequential Gradient Wave (5 of 5 in sequence):
+        • Order: LinkedIn (0%-20%) -> GitHub (20%-40%) -> LeetCode (40%-60%) -> Kaggle (60%-80%) -> Instagram (80%-100%)
+        • Instagram starts immediately at 80% right when Kaggle finishes.
+        • At 100%, Instagram finishes and cycle seamlessly loops back to LinkedIn (0%).
+    -->
     <linearGradient id="igWave" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0"    stop-color="#E1306C" stop-opacity="0"/>
       <stop offset=".37"  stop-color="#E1306C" stop-opacity="0"/>
@@ -21,7 +27,6 @@
     .lbl  { fill:#1d2733; font-family:Inter,Segoe UI,Arial,sans-serif; font-size:12px; font-weight:700; }
     .ico  { fill:none; stroke:#E1306C; stroke-width:1.6; stroke-linecap:round; stroke-linejoin:round; }
     .dot  { fill:#E1306C; }
-    .btn  { animation:softPulse 3.4s ease-in-out infinite; }
 
     @media (prefers-color-scheme:dark) {
       .bg  { fill:#27323d; stroke:#526171; }
@@ -30,21 +35,27 @@
       .dot { fill:#ff4f86; }
     }
 
-    /* ── Row-04 exact match: 280×80 diagonal stripe sweeps L→R ── */
-    .waveGrp { animation: gradWave 2.4s linear infinite; }
+    /* ── 5 of 5: Active 80% to 100% (6.4s to 8.0s) ── */
+    .waveGrp {
+      animation: gradWave 8s linear infinite;
+    }
     @keyframes gradWave {
-      from { transform: translateX(-126px); }
-      to   { transform: translateX(126px);  }
-    }
-      to   { transform: translateX(280px);  }
-    }
-
-    @keyframes softPulse {
-      0%,100% { transform:scale(1); }
-      50%     { transform:scale(1.007); }
+      0%, 79.999% {
+        transform: translateX(-130px);
+        opacity: 0;
+      }
+      80% {
+        transform: translateX(-130px);
+        opacity: 1;
+      }
+      100% {
+        transform: translateX(130px);
+        opacity: 1;
+      }
     }
 
     @media (prefers-reduced-motion:reduce) {
+      .waveGrp { animation: none; }
     }
   </style>
 
@@ -52,7 +63,7 @@
     <rect class="bg" x=".5" y=".5" width="139" height="39" rx="7"/>
 
     <g clip-path="url(#igClip)">
-      <!-- 280×80 element, skewX(-25) ≈ 115deg, sweeps ±126px — identical to HTML row 04 -->
+      <!-- 280×80 element, skewX(-25) ≈ 115deg, sweeps ±130px -->
       <g class="waveGrp">
         <rect x="-70" y="-20" width="280" height="80"
               fill="url(#igWave)" transform="skewX(-25)"/>
@@ -61,9 +72,9 @@
 
     <!-- Instagram icon: 20×20 at x=12, y=10 -->
     <g transform="translate(12,10)">
-      <rect class="ico" x="2.9" y="2.9" width="14.2" height="14.2" rx="4.2"/>
-      <circle class="ico" cx="10" cy="10" r="3.33"/>
-      <circle class="dot" cx="14.5" cy="5.58" r="0.92"/>
+      <rect class="ico" x="1.5" y="1.5" width="17" height="17" rx="4.5"/>
+      <circle class="ico" cx="10" cy="10" r="4.2"/>
+      <circle class="dot" cx="14.6" cy="5.4" r="1.1"/>
     </g>
 
     <text class="lbl" x="39" y="25">Instagram</text>
